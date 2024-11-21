@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a basic recipe website showcasing three recipes of my choosing. For the project I used only HTML elements, tags and attributes. Through the project I was able to display my knowledge of Headings, paragraphs, ordered and unordered lists, images, linka nd how to link different pages to one another.
